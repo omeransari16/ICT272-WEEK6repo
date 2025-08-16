@@ -29,6 +29,7 @@ namespace CustomerConsoleAppTutorial4
             // Create two Customer objects with different values
             Customer Cust1 = new Customer(1, "John Doe", "john.doe@example.com");
             Customer Cust2 = new Customer(2, "Jane Smith", "jane.smith@example.com");
+            Customer Cust3 = new Customer(3, "Alex Kim", "alex.kim@example.com");
 
             // Print the details of the first customer using Console.WriteLine
             Console.WriteLine("Customer 1 Information:");
@@ -42,6 +43,13 @@ namespace CustomerConsoleAppTutorial4
             Console.WriteLine("ID: " + Cust2.Id);
             Console.WriteLine("Name: " + Cust2.Name);
             Console.WriteLine("Email: " + Cust2.Email);
+            Console.WriteLine(); // Blank line for separation
+
+            // Print the details of the second customer using Console.WriteLine
+            Console.WriteLine("Customer 3 Information:");
+            Console.WriteLine("ID: " + Cust3.Id);
+            Console.WriteLine("Name: " + Cust3.Name);
+            Console.WriteLine("Email: " + Cust3.Email);
         }
     }
 }

@@ -6,3 +6,11 @@ C:\Users\brons\source\repos\CustomerConsoleAppTutorial4\CustomerConsoleAppTutori
 C:\Users\brons\source\repos\CustomerConsoleAppTutorial4\CustomerConsoleAppTutorial4\obj\Debug\CustomerConsoleAppTutorial4.exe
 C:\Users\brons\source\repos\CustomerConsoleAppTutorial4\CustomerConsoleAppTutorial4\obj\Debug\CustomerConsoleAppTutorial4.pdb
 C:\Users\brons\source\repos\CustomerConsoleAppTutorial4\CustomerConsoleAppTutorial4\obj\Debug\CustomerConsoleAppTutorial4.exe.config
+C:\Users\brons\Documents\ICT272 GitHub\ICT272-WEEK6repo\CustomerConsoleAppTutorial4\CustomerConsoleAppTutorial4\bin\Debug\CustomerConsoleAppTutorial4.exe.config
+C:\Users\brons\Documents\ICT272 GitHub\ICT272-WEEK6repo\CustomerConsoleAppTutorial4\CustomerConsoleAppTutorial4\bin\Debug\CustomerConsoleAppTutorial4.exe
+C:\Users\brons\Documents\ICT272 GitHub\ICT272-WEEK6repo\CustomerConsoleAppTutorial4\CustomerConsoleAppTutorial4\bin\Debug\CustomerConsoleAppTutorial4.pdb
+C:\Users\brons\Documents\ICT272 GitHub\ICT272-WEEK6repo\CustomerConsoleAppTutorial4\CustomerConsoleAppTutorial4\obj\Debug\CustomerConsoleAppTutorial4.csproj.AssemblyReference.cache
+C:\Users\brons\Documents\ICT272 GitHub\ICT272-WEEK6repo\CustomerConsoleAppTutorial4\CustomerConsoleAppTutorial4\obj\Debug\CustomerConsoleAppTutorial4.exe.config
+C:\Users\brons\Documents\ICT272 GitHub\ICT272-WEEK6repo\CustomerConsoleAppTutorial4\CustomerConsoleAppTutorial4\obj\Debug\CustomerConsoleAppTutorial4.csproj.CoreCompileInputs.cache
+C:\Users\brons\Documents\ICT272 GitHub\ICT272-WEEK6repo\CustomerConsoleAppTutorial4\CustomerConsoleAppTutorial4\obj\Debug\CustomerConsoleAppTutorial4.exe
+C:\Users\brons\Documents\ICT272 GitHub\ICT272-WEEK6repo\CustomerConsoleAppTutorial4\CustomerConsoleAppTutorial4\obj\Debug\CustomerConsoleAppTutorial4.pdb
