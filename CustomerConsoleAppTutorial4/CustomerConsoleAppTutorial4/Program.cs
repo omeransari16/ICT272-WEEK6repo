@@ -35,28 +35,20 @@ namespace CustomerConsoleAppTutorial4
             Customer Cust3 = new Customer(3, "Alex Kim", "alex.kim@example.com", 9);
 
 
-            // Print the details of the first customer using Console.WriteLine
-            Console.WriteLine("Customer 1 Information:");
-            Console.WriteLine("ID: " + Cust1.Id);
-            Console.WriteLine("Name: " + Cust1.Name);
-            Console.WriteLine("Email: " + Cust1.Email);
-            Console.WriteLine("Age: " + Cust1.Age);
-            Console.WriteLine(); // Blank line for separation
 
-            // Print the details of the second customer using Console.WriteLine
-            Console.WriteLine("Customer 2 Information:");
-            Console.WriteLine("ID: " + Cust2.Id);
-            Console.WriteLine("Name: " + Cust2.Name);
-            Console.WriteLine("Email: " + Cust2.Email);
-            Console.WriteLine("Age: " + Cust2.Age);
-            Console.WriteLine(); // Blank line for separation
+            if (Cust1.Age < 10) Print(Cust1);
+            if (Cust2.Age < 10) Print(Cust2);
+            if (Cust3.Age < 10) Print(Cust3);
+        }
+        //Print is a static method that takes one parameter c of type Customer
+        static void Print(Customer c)
+        {
+            Console.WriteLine("ID: " + c.Id);
+            Console.WriteLine("Name: " + c.Name);
+            Console.WriteLine("Email: " + c.Email);
+            Console.WriteLine("Age: " + c.Age);
+            Console.WriteLine();
 
-            // Print the details of the second customer using Console.WriteLine
-            Console.WriteLine("Customer 3 Information:");
-            Console.WriteLine("ID: " + Cust3.Id);
-            Console.WriteLine("Name: " + Cust3.Name);
-            Console.WriteLine("Email: " + Cust3.Email);
-            Console.WriteLine("Age: " + Cust3.Age);
         }
     }
 }
